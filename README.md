@@ -1,5 +1,5 @@
 # Geo2py
-Geo2py is a simple geolocation aplication made with Django, GeoDjango  and Leaflet.
+Geo2py is a simple geolocation application made with Django, GeoDjango  and Leaflet.
 
 ![screenshot](screenshot.png)
 
@@ -14,6 +14,7 @@ Geo2py is a simple geolocation aplication made with Django, GeoDjango  and Leafl
 - Change SQLite and SpatiaLite to MySQL
 - Add place details
 - Create place details page
+- Add DRF
 
 
 ## Thanks
